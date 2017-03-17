@@ -1,0 +1,25 @@
+{
+  "name": "charvotingapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "watch": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranisad/charvotingapp.git"
+  },
+  "author": "Sadhana Upadhyay <sadhana.upadhyay3@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranisad/charvotingapp/issues"
+  },
+  "homepage": "https://github.com/ranisad/charvotingapp#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "morgan": "^1.8.1"
+  }
+}
